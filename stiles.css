@@ -1,0 +1,47 @@
+h1{
+    color: seagreen;
+    font-size: 30px;
+    text-indent:8cm;
+}
+
+
+.ila1 li{
+    color: rgb(83, 35, 128);
+    font-size: 20px;
+}
+
+
+.ila1 img{
+    border: solid 5px rgb(36, 170, 204);
+    width: 300px;
+    height: 300px;
+    
+}
+
+
+.fila2 img{
+    width: 300px;
+    height: 300px;
+    border: solid 5px rgb(140, 219, 121);
+
+}
+.fila2 li{
+    color: rgb(201, 61, 61);
+    font-size: 20px;
+}
+.fila3 img{
+    width: 300px;
+    height: 300px;
+    border: solid 5px rgb(230, 138, 181);
+
+}
+.fila3 li{
+    color: rgb(17, 41, 179);
+    font-size: 20px;
+}
+p{
+
+    color: rgb(245, 7, 138);
+    font-size: 20px;
+    text-indent:8cm;
+}
